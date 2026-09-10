@@ -1,4 +1,4 @@
-package com.cryptic.singleton;
+package com.cryptic.concepts.singleton;
 
 public class Singleton {
     private static Singleton instance = new Singleton(); //eager loading

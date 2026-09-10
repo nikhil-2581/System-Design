@@ -1,4 +1,4 @@
-package com.cryptic.singleton;
+package com.cryptic.concepts.singleton;
 
 public class Main {
     public static void main(String[] args) {
